@@ -22,3 +22,36 @@ Overall, the Scrum-Agile approach was well-suited for the SNHU Travel project. T
 References:
 	•	"How to Use Jira for Agile Project Management," Atlassian, accessed June 25, 2024, https://www.atlassian.com/agile/tutorials/agile-project-management
 	•	"Scrum Methodology: A Complete Guide," Scrum Alliance, accessed June 25, 2024, https://www.scrumalliance.org/why-scrum/scrum-guide
+
+
+ Essential Questions and Responses
+
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+Interpreting user needs involves understanding the requirements and expectations of the end-users of the software. This can be achieved through various methods such as interviews, surveys, observation, and feedback sessions. Once the user needs are identified, they can be translated into specific features and functionalities that the program should have.
+
+Creating user stories helps in this process by breaking down the requirements into manageable pieces of work from the user's perspective. A user story typically follows the format: "As a [type of user], I want [an action] so that [a benefit/a reason]." This format ensures that the development team understands the context, the action required, and the purpose behind each feature. User stories facilitate communication between stakeholders and the development team, ensure that the user's voice is central to the development process, and provide a clear, concise way to track progress and prioritize work.
+
+2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+My approach to developing programs is grounded in Agile principles, which emphasize iterative development, collaboration, and flexibility. I start by gathering requirements and understanding the problem space. Then, I break down the project into smaller, manageable tasks, often in the form of user stories. I prioritize these tasks based on their value to the user and the complexity involved.
+
+In my future development work, I hope to incorporate the following Agile processes:
+- Sprint Planning and Execution: Regularly plan and execute short development cycles (sprints) to deliver incremental improvements to the software.
+- Daily Stand-ups: Hold brief, daily meetings to synchronize the team's efforts, discuss progress, and identify any roadblocks.
+- Sprint Reviews and Retrospectives: Conduct regular reviews to showcase the completed work and retrospectives to reflect on what went well and what could be improved.
+- Continuous Integration and Deployment: Integrate code changes frequently and deploy them to a staging or production environment to ensure that the software is always in a releasable state.
+- Test-Driven Development (TDD): Write tests before coding to ensure that the software meets its requirements and to catch defects early in the development process.
+
+3. What does it mean to be a good team member in software development?
+
+Being a good team member in software development involves several key attributes:
+- Collaboration: Actively participate in team discussions, share knowledge, and help others when needed. Good collaboration fosters a supportive environment where everyone can contribute to the project's success.
+- Communication: Clearly and effectively communicate ideas, progress, and issues with the team. This includes listening to others and being open to feedback.
+- Reliability: Consistently deliver work on time and meet commitments. Reliability builds trust within the team.
+- Adaptability: Be open to changes and willing to adjust plans based on new information or shifting priorities. Agile development often requires flexibility.
+- Continuous Learning: Stay curious and committed to learning new skills and technologies. Continuous improvement benefits both the individual and the team.
+- Positive Attitude: Maintain a positive and proactive approach to problem-solving and teamwork. A positive attitude can help navigate challenges and foster a healthy team dynamic.
+
+By incorporating these attributes and Agile processes, I aim to contribute effectively to my team and deliver high-quality software that meets user needs.
+
